@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@react-three/fiber": "^7.0.26",
     "@types/redux-logger": "^3.0.9",
     "@wasmer/wasi": "^1.0.2",
     "@wasmer/wasmfs": "^0.12.0",
